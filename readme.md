@@ -17,5 +17,3 @@ Afin de t’aider, je me suis coordonné avec Léa pour qu’elle te facilite le
 - une courte analyse exploratoire pour faire ressortir des insights clés sur les différents bâtiments
 - des tests des différents modèles supervisés visant à prédire la consommation en énergie des bâtiments
 - la détermination des facteurs principaux impactant le plus le modèle que tu auras sélectionné.
-
-## 
